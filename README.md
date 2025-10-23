@@ -53,8 +53,8 @@ Basic arguments:
 
 ## Acknowledgement
 
-+ [GPT-SoVITS][https://github.com/RVC-Boss/GPT-SoVITS]
-+ [SafeSpeech][https://github.com/wxzyd123/SafeSpeech]
++ [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
++ [SafeSpeech](https://github.com/wxzyd123/SafeSpeech)
 
 
 
