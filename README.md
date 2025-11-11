@@ -1,6 +1,6 @@
 # E2E-VGuard
 
-\[[Demo Page](https://wxzyd123.github.io/e2e-vguard)\]
+\[[Paper](https://arxiv.org/abs/2511.07099)\] \[[Demo Page](https://wxzyd123.github.io/e2e-vguard)\]
 
 We introduce E2E-VGuard, a proactive defensive framework, to prevent malicious production LLM-based speech synthesis under end-to-end scenarios. In the designing of E2E-VGuard, we protect our voice from timbre and prounciation perspectives to disrupt the text-prounciation aligment of the pre-trained TTS models, making synthesized speech cannot be heard clearly. For the imperceptibility, we introduce the psychoacoustic model to conceal the generated perturbation for human ears.
 
